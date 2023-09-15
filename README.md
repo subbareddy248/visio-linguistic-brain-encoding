@@ -1,10 +1,10 @@
 # visio-linguistic-brain-encoding
 
-[Visio-Linguistic Brain Encoding](https://aclanthology.org/2022.coling-1.11.pdf)), COLING-2022
+[Visio-Linguistic Brain Encoding](https://aclanthology.org/2022.coling-1.11.pdf), COLING-2022
 
 ![screenshot](Architecture_Diagram.PNG)
 
-[BOLD5000_dataset](https://figshare.com/articles/dataset/BOLD5000_Release_2_0/14456124))
+[BOLD5000_dataset](https://figshare.com/articles/dataset/BOLD5000_Release_2_0/14456124)
 
 * BOLD5000 dataset statistics:
 ![screenshot](bold5000_stats.PNG)
@@ -14,7 +14,7 @@
   
 ## Slides
 
-[slides](https://docs.google.com/presentation/d/1OZuMMK6rC6B1YPmkA5bwCsF2AMn9oWDS/edit?usp=sharing&ouid=100565237099472127436&rtpof=true&sd=true))
+[slides](https://docs.google.com/presentation/d/1OZuMMK6rC6B1YPmkA5bwCsF2AMn9oWDS/edit?usp=sharing&ouid=100565237099472127436&rtpof=true&sd=true)
 
 ## Video
 [video](https://drive.google.com/file/d/1olIwiI5syxblk6QEQXMfsiqKLYcRUug-/view?usp=sharing)
