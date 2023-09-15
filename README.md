@@ -7,11 +7,13 @@
 [BOLD5000_dataset](https://figshare.com/articles/dataset/BOLD5000_Release_2_0/14456124)
 
 * BOLD5000 dataset statistics:
+  
 ![screenshot](bold5000_stats.PNG)
 
 [Pereira_dataset](https://figshare.com/articles/dataset/BOLD5000_Release_2_0/14456124)
 
 * Pereira dataset statistics:
+  
 ![screenshot](pereira_stats.PNG)
   
 ## Slides
